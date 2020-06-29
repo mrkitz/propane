@@ -21,7 +21,7 @@
 
 **Other questions/thoughts**
 
-[^jurisdictional]: Suburban has agreed upon a price with Amerigas for WCA hardware. When a propane storage tank serves ten or more metered units in a single building the State of Vermont requires additional piping tests. If you want to go deeper into these weeds, look [here](https://www.dropbox.com/s/ehax1i53i5yc10j/JurisdictionalPropane.pdf?dl=0). Five Woodhaven buildings are jurisdictional (2, 5, 6, 7, 9). Suburban has offered to put in 500 gallon tanks and separate 4 metered units in each of the buildings--at no cost to WCA--to avoid the jurisdiction requirements. This is not a condition of their proposal, but their preference. Eastern suggested ignoring the jurisdictional issue.
+[^jurisdictional]: Suburban has agreed upon a price with Amerigas for WCA hardware. When a propane storage tank serves ten or more metered units in a single building the State of Vermont requires additional piping tests. If you want to go deeper into these weeds, look [here](JurisdictionalPropane.pdf). Five Woodhaven buildings are jurisdictional (2, 5, 6, 7, 9). Suburban has offered to put in 500 gallon tanks and separate 4 metered units in each of the buildings--at no cost to WCA--to avoid the jurisdiction requirements. This is not a condition of their proposal, but their preference. Eastern suggested ignoring the jurisdictional issue.
 
 [^selkirk]: Selkirk, NY is the terminal end of the [TEPPCO pipeline](../images/_NEPropaneSupplyLocations.png) that begins at Mont Belvieau, TX. The wholesale price at Selkirk is a benchmark price for NY and NE. Typically suppliers refer to profe$\$ional publication\$ for the published price. [People's Energy Group](https://peoplesenergygroup.com/fuel-pricing/) posts a free and pretty good estimate.
   
